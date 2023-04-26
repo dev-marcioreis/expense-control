@@ -6,7 +6,7 @@ Projeto desenvolvido para controle financeiro.
 
 ## 🚀 Finalizado.
 
-## 📋 Técnologias
+## 📋 Tecnologias
 JavaScript
 
 ## ✒️ Autor
